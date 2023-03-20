@@ -4,6 +4,9 @@
 <h1> Note: The notebook has large Visualisations with Plotly, hence couldn't be directly uploaded onto GIT alongwith outputs.
 To view the notebook please visit</h1> <b><a href="https://tanmai14.github.io/DSCI521/Project.html">https://tanmai14.github.io/DSCI521/Project.html</a></b>
 
+
+
+<h2> Link to the dataset </h2> <b><a href="https://drive.google.com/file/d/1QoMJAZuKW0QxaaTn16GXw9D7bABBvCC7/view?usp=share_link">https://drive.google.com/file/d/1QoMJAZuKW0QxaaTn16GXw9D7bABBvCC7/view?usp=share_link</a></b>
 This Project is aimed at developing a ML model about the user's physical activity based on sensor data. Primarily there are Two main sensors used to generate the dataset: Gyroscope and Accelerometer
 
 Gyroscope : For identifying Position in 3D space
