@@ -1,6 +1,8 @@
 # DSCI521
 # Human Activity Prediction based on sensor Data
 
+<h1> Note: The notebook has large Visualisations with Plotly, hence couldn't be directly uploaded onto GIT alongwith outputs.
+To view the notebook please visit</h1> <b><a href="https://tanmai14.github.io/DSCI521/Project.html">https://tanmai14.github.io/DSCI521/Project.html</a></b>
 
 This Project is aimed at developing a ML model about the user's physical activity based on sensor data. Primarily there are Two main sensors used to generate the dataset: Gyroscope and Accelerometer
 
